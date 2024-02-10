@@ -15,6 +15,6 @@ let userOne= {
 let userTwo = userOne
 
 userTwo.email="mali@gmail.com"
-console.log(userOne)
-console.log(userTwo)
+console.log(userOne.email)
+console.log(userTwo.email)
 //console.log(UserActivation)
